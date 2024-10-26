@@ -4,7 +4,7 @@
 
 ## Qucikstart
 
-#### backend
+### backend
 
 ```shell
 cd backend
@@ -21,5 +21,12 @@ npm run dev
 ```
 
 Then, open http://localhost:3000/  
+
+
+## TODO
+- config
+- mutex
+- 移除后端，用内存模拟文件系统
+    - https://github.com/streamich/memfs  
 
 ![image-20241026150846450](./assets/image-20241026150846450.png)
